@@ -113,7 +113,7 @@ public class matrix
 			    		if(i>j)
 			    		sum1=sum1+a[i][j];
 			    	}
-			    }
+			     }
 			    System.out.println(" upper triang sum="+sum1);
 			    break;
 			 case 6:System.out.println("invalid choice..");
@@ -123,5 +123,5 @@ public class matrix
 			  
 		 }while(ch<7);	
 		
-	}
+	      }
 	}
